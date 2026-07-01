@@ -1,5 +1,6 @@
-<h1 align="center">Michael Abraham</h1>
-<h3 align="center">AI Architect and Full Stack Developer</h3>
+<p align="center">
+  <img src="./banner.png" alt="Michael Abraham, AI Architect and Full Stack Developer" width="100%" />
+</p>
 
 <p align="center">
 I design AI agents and ship full stack products for African businesses. Most of my work sits where language models meet real operations: voice, WhatsApp, dashboards, and the quiet automation that runs a business day to day. I care about software that reaches production and stays there.
