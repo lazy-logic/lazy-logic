@@ -51,8 +51,8 @@ An AI customer service assistant and a real time operations dashboard for an ins
 **Autonomous Product Strategy Agent**
 An agent that takes a high level intent and produces a rigorous, data backed market requirements document, the way a technical product manager would.
 
-**Augvox**
-A browser based softphone with a CRM and an omnichannel inbox for WhatsApp and SMS, built for teams across Ghana.
+**LotusIQ**
+A platform for lottery and gaming operators, built to power the digital side of how they run and grow.
 
 **Gogo eBikes**
 A lease to own electric bike programme with a WhatsApp bot that onboards riders end to end, and a dashboard behind it.
@@ -63,12 +63,16 @@ A tool that reads illegal mining site data in Ghana, runs the analysis, stores i
 ## GitHub in numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lazy-logic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=6246FF&icon_color=6246FF&text_color=57606a&bg_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-logic&layout=compact&hide_border=true&title_color=6246FF&text_color=57606a&bg_color=ffffff&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazy-logic&theme=default" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazy-logic&hide_border=true&stroke=6246FF&ring=6246FF&fire=6246FF&currStreakLabel=6246FF&background=ffffff&sideLabels=57606a&dates=57606a" alt="Streak" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lazy-logic&theme=default" alt="Stats" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lazy-logic&theme=default" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazy-logic&hide_border=true&color=6246FF&line=6246FF&point=6246FF&bg_color=ffffff&area=true" alt="Activity graph" />
 </p>
 
 ## Where to find me
